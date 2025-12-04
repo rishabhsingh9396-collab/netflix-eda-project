@@ -1,5 +1,6 @@
 # netflix-eda-project# Netflix EDA Project
-
+This project performs a basic Exploratory Data Analysis (EDA) on the Netflix Titles dataset.
+It includes data cleaning, visualizations, insights, and a Netflix-style presentation.
 A simple exploratory data analysis project based on the **Netflix Titles dataset**.
 
 ## Dataset Source
